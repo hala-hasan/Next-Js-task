@@ -1,0 +1,21 @@
+.a{
+    color: green;
+    font-family: fantasy;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 50px;
+}
+.skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: royalblue;
+    width: 100px;
+    flex-direction: row;
+    text-transform: capitalize;
+    font-size: 40px;
+
+}
+.Image{
+    margin: 0 auto;
+}
